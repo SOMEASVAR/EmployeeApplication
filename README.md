@@ -22,7 +22,7 @@ To create an employee onboarding application using SpringBoot and SQL.
 
 Employee.java
 ```
-package com.hospital.hosman.hos;
+package com.Employee.employee.emp;
 
 import jakarta.persistence.*;
 import org.junit.platform.commons.annotation.Testable;
