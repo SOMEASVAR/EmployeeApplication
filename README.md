@@ -161,6 +161,11 @@ function App() {
 export default App;
 ```
 
+## Output:
+
+![Screenshot (1)](https://github.com/SaiDarshan2003/EmployeeApplication/assets/94692595/88ae35d6-1e47-4775-8509-6caf12c4dd2b)
+
+
 ## Result:
 
 Thus we have successfully created an API to print HELLO WORLD.
