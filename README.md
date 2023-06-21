@@ -168,4 +168,4 @@ export default App;
 
 ## Result:
 
-Thus we have successfully created an API to print HELLO WORLD.
+Thus we have successfully created an employee onboarding application using SpringBoot and SQL.
