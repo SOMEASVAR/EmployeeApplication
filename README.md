@@ -1,10 +1,10 @@
 # Exercise-24
 
-## Aim:
+# Aim:
 
 To create an employee onboarding application using SpringBoot and SQL.
 
-## Algorithm:
+# Algorithm:
 
 1.Open Spring Initialzr.
 
@@ -18,9 +18,9 @@ To create an employee onboarding application using SpringBoot and SQL.
 
 6.Connect the database with the SpringBoot.
 
-## Program:
+# Program:
 
-Employee.java
+## Employee.java:
 ```
 package com.Employee.employee.emp;
 
@@ -115,7 +115,7 @@ public class Employee {
 
 ```
 
-applications.properties
+## applications.properties:
 ```
 spring.datasource.url=jdbc:postgresql://localhost:5432/hosman_db
 spring.datasource.username=postgres
@@ -127,7 +127,7 @@ spring.jpa.properties.hibernate.format_sql=true
 
 ```
 
-App.js
+## App.js:
 ```
 import React from "react"
 import './App.css';
@@ -161,11 +161,12 @@ function App() {
 export default App;
 ```
 
-## Output:
+# Output:
+![image](https://github.com/SOMEASVAR/EmployeeApplication/assets/93434149/a32da83b-33b9-4016-b405-35df9652139c)
 
-![Screenshot (1)](https://github.com/SaiDarshan2003/EmployeeApplication/assets/94692595/88ae35d6-1e47-4775-8509-6caf12c4dd2b)
 
 
-## Result:
+
+# Result:
 
 Thus we have successfully created an employee onboarding application using SpringBoot and SQL.
